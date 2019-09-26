@@ -1,4 +1,4 @@
-package com.zhouxiaoyu.basemvp;
+package com.xiaoyu.basemvp;
 
 import org.junit.Test;
 

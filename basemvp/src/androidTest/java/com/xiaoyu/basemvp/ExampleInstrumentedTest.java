@@ -1,4 +1,4 @@
-package com.zhouxiaoyu.basemvp;
+package com.xiaoyu.basemvp;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.zhouxiaoyu.basemvp", appContext.getPackageName());
+        assertEquals("com.xiaoyu.basemvp", appContext.getPackageName());
     }
 }
